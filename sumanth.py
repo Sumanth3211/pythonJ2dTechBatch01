@@ -1,0 +1,2 @@
+name = "sumanth"
+print(name)
